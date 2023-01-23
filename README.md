@@ -1,2 +1,2 @@
-# Portfolio
-This is the repository of my portfolio, any suggest will be humbly received
+# Portfolio prototype
+This is the repository of my portfolio's prototype, any suggest will be humbly received
